@@ -10,20 +10,23 @@ Clean the glasses, spacers and combs very well with soap and water. Rinse thorou
 
 Prepare the gel (2 gels of 20 cm):
 
-Ingredient | 70ml
----------- | ----
+Ingredient | Volume
+---------- | ------
 40% acrylamide/bis (37.5:1) | 14 ml
 TBE buffer (10x) | 3.5 ml
 Water | 54 ml
+Total volume | 70 ml
 
 to be added just before pouring the gel:
 
+Ingredient | Volume
+---------- | ------
 ammonium persulfate (APS; 10%) | 350 μl
 TEMED (tetramethylethylenediamine) | 55 μl
 
 Mix gently by rotating the beaker. As soon as the APS and the TEMED are mixed together in the solution, the gel starts to polymerise. You thus need to proceed with the pouring quickly. Pour the gel between the glass plates using a syringe, insert combs properly. Wait 90 minutes for it to polymerise (leave the remaining of the gel in the beaker to confirm the polymerisation).
 
-** Notes **
+**Notes**
 
 * Final polyacrylamide concentration: 8% (or can be adjusted to 6-8%).
 * optional: you can add between 2-5% glycerol
@@ -50,6 +53,6 @@ It is very useful to do asymetric PCR so that only one DNA strand is visible on 
 
 ## References
 
-Rodríguez F, D Cai, Y Teng, D Spooner. 2011. Asymmetric Single-strand Conformation Polymorphism: An Accurate and Cost-effective Method to Amplify and Sequence Allelic Variants. ''American Journal of Botany'' '''98''': 1061 –1067. [doi:10.3732/ajb.1000251](http://dx.doi.org/10.3732/ajb.1000251)
+Rodríguez F, D Cai, Y Teng, D Spooner. 2011. Asymmetric Single-strand Conformation Polymorphism: An Accurate and Cost-effective Method to Amplify and Sequence Allelic Variants. *American Journal of Botany* **98**: 1061 –1067. [doi:10.3732/ajb.1000251](http://dx.doi.org/10.3732/ajb.1000251)
 
 *Edited by Judita Zozomova Lihova and Simon Joly, June 2012*
