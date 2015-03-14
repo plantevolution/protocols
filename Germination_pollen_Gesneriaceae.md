@@ -20,7 +20,7 @@
 
 La concentration idéale de sucrose semble être autour de 6-8% (masse/volume) (voir figure).
 
-![Test Germination](./germination_success.jpg =250x)
+![Test Germination](./germination_success.jpg)
 
 Il est donc recommandé de choisir la recette à 7% de sucrose comme standard. Préparer cette solution dans une petit erlenmeyer de 25 ml.
 
