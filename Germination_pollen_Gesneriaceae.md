@@ -25,6 +25,7 @@ La concentration idéale de sucrose semble être autour de 6-8% (masse/volume) (
 Il est donc recommandé de choisir la recette à 7% de sucrose comme standard. Préparer cette solution dans une petit erlenmeyer de 25 ml.
 
 Qté BK 10X (ul) | Qté sucrose 15% (ul) | Qté H2O (ul) | Concent. finale sucrose (%)
+--------------- | -------------------- | ------------ | ---------------------------
 300 | 2000 | 700 | 10
 300 | 1800 | 900 | 9
 300 | 1600 | 1100 | 8
