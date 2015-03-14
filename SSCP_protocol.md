@@ -3,6 +3,8 @@ SSCP protocol
 
 *Simon Joly, 2009-2012*
 
+*Last edited by Judita Zozomova Lihova and Simon Joly, June 2012*
+
 Gel Preparation
 ---------------
 
@@ -54,5 +56,3 @@ It is very useful to do asymetric PCR so that only one DNA strand is visible on 
 ## References
 
 Rodríguez F, D Cai, Y Teng, D Spooner. 2011. Asymmetric Single-strand Conformation Polymorphism: An Accurate and Cost-effective Method to Amplify and Sequence Allelic Variants. *American Journal of Botany* **98**: 1061 –1067. [doi:10.3732/ajb.1000251](http://dx.doi.org/10.3732/ajb.1000251)
-
-*Edited by Judita Zozomova Lihova and Simon Joly, June 2012*
