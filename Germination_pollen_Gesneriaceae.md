@@ -20,17 +20,17 @@
 
 La concentration idéale de sucrose semble être autour de 6-8% (masse/volume) (voir figure).
 
-![Test Germination](./germination_success.jpg)
+![Test Germination](./germination_success.jpg =250x)
 
 Il est donc recommandé de choisir la recette à 7% de sucrose comme standard. Préparer cette solution dans une petit erlenmeyer de 25 ml.
 
 Qté BK 10X (ul) | Qté sucrose 15% (ul) | Qté H2O (ul) | Concent. finale sucrose (%)
-300|2000|700|10
-300|1800|900|9
-300|1600|1100|8
-300|1400|1300|7
-300|1200|1500|6
-300|1000|1700|5
+300 | 2000 | 700 | 10
+300 | 1800 | 900 | 9
+300 | 1600 | 1100 | 8
+300 | 1400 | 1300 | 7
+300 | 1200 | 1500 | 6
+300 | 1000 | 1700 | 5
 
 ## Protocole
  1. Préparer 3 ml de solution BK+sucrose dans erlenmeyers de 25 ml. Noter sur chaque erlenmeyer l'espèce qui y est déposé.
@@ -46,4 +46,4 @@ Il y a pas mal de variance entre différentes lamelles et entre différentes fle
 
 ### Références
 
-Brewbaker J, Kwack B (1963) The essential role of calcium ion in pollen germination and pollen tube growth. ''American Journal of Botany'' 50:859–865.
+Brewbaker J, Kwack B (1963) The essential role of calcium ion in pollen germination and pollen tube growth. *American Journal of Botany* 50:859–865.
