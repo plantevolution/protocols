@@ -10,11 +10,11 @@ Clean the glasses, spacers and combs very well with soap and water. Rinse thorou
 
 Prepare the gel (2 gels of 20 cm):
 
-  | 70ml
-- | ----
-40% acrylamide/bis (37.5:1) | 14 ml
-TBE buffer (10x) | 3.5 ml
-Water | 54 ml
+|   | 70ml |
+| - | ---- |
+| 40% acrylamide/bis (37.5:1) | 14 ml |
+| TBE buffer (10x) | 3.5 ml |
+| Water | 54 ml |
 
 to be added just before pouring the gel:
 
