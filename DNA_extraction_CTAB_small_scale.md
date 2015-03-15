@@ -5,8 +5,8 @@
  * To clean pestels (eppendorf-size pestel), wash well, rinse with 100% ETOH and with distilled water. Then autoclave them to avoid contamination.
  * Label 3 sets of 1.5 ml eppendorf tubes. A maximum of 42 samples (=spaces in centrifuges) are possible in one day but this requires two people.
  * Prepare 600µl of CTAB per DNA extraction.
- * **OPTIONAL** - Add 1% of PVP to the CTAB. The PVP should be added just before the extraction as it degrades with time in the CTAB solution. Incubate the solution at 65C to dissolve the PVP in the CTAB.
- * **NOTE**: Just before you add the buffer to the liquid-nitrogen ground tissue add 6ul of b-mercaptoethanol and 12ul of 0.5M EDTA, ph 8.0 for each 600µL of CTAB.
+ > **OPTIONAL** - Add 1% of PVP to the CTAB. The PVP should be added just before the extraction as it degrades with time in the CTAB solution. Incubate the solution at 65C to dissolve the PVP in the CTAB.
+> **NOTE**: Just before you add the buffer to the liquid-nitrogen ground tissue add 6ul of b-mercaptoethanol and 12ul of 0.5M EDTA, ph 8.0 for each 600µL of CTAB.
 
 ## Amount of Material
  * **Fresh Material**: Use about 100 mg of fresh material.
