@@ -31,7 +31,8 @@
  1. Add **1 ml** (i.e. about 2 volumes)of ice cold **100% ETOH** to precipitate the DNA. Invert the tubes to mix well. At this point you may or may not be able to see DNA.
 
     >**Note**: it is also possible to precipitate the DNA with 1.5 volumes of isopropanol. Depending of the plant we are extracting, one method could work better than the other. Ethanol precipitation has been found to work better for Carex and roses, for example.
- 1. Let the tubes sit @ Room temperature for 30 minutes to 2 hours.  
+ 1. Let the tubes sit @ Room temperature for 30 minutes to 2 hours.
+
     >**Note**: If you can see huge pellets at this point do not bother to let the tubes sit for 2-3 hours; 15-30 minutes could be enough. You obviously have enough DNA; if you let it sit any longer you will get more DNA, but it will also get more inhibitory secondary products.
  1. Centrifuge @ maximum for 20 min.
  1. Pour-off ETOH. Should be able to see pellet at this point.
@@ -40,7 +41,9 @@
  1. Pour off Wash Buffer, and use tissue to remove as much remaining buffer as possible by tapping tube against paper, and by sopping up any small beads in tube.
  1. Place the open tubes under the hood and let sit for about 1 hour, until you cannot smell alcohol. It is also possible to dry-vacuum them for 4-6 minutes if less time is available.
  1. Re-suspend in 150 µl TE (100-200) or distilled water. Pipette TE overtop of pellet and tap tubes with finger to help dissolve DNA.
- 1. Replace tubes in a 65 C bath for 10min to redissolve the DNA, tapping tubes occasionally. <<BR>>**Note**: If you did not put the RNAse at step 5, you may remove the RNA by performing the following steps.
+ 1. Replace tubes in a 65 C bath for 10min to redissolve the DNA, tapping tubes occasionally.
+
+    >**Note**: If you did not put the RNAse at step 5, you may remove the RNA by performing the following steps.
  1. Add 2 µl of RNAse A (10mg/ml) and place in the water bath for 30 min @ 37 C.
  1. Add 20 µl chloroform-Isoamyl alcohol (24:1) and invert the tubes gently to mix.
  1. Spin tubes for 5 min at max.
