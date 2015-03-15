@@ -8,7 +8,7 @@
 
 > **OPTIONAL** - Add 1% of PVP to the CTAB. The PVP should be added just before the extraction as it degrades with time in the CTAB solution. Incubate the solution at 65C to dissolve the PVP in the CTAB.
 
-> **NOTE**: Just before you add the buffer to the liquid-nitrogen ground tissue add 6ul of b-mercaptoethanol and 12ul of 0.5M EDTA, ph 8.0 for each 600µL of CTAB.
+> **NOTE**: Just before you add the buffer to the liquid-nitrogen ground tissue add 6ul of b-mercaptoethanol and 12ul of 0.5M EDTA, ph 8.0 for each 600 µL of CTAB.
 
 ## Amount of Material
 
@@ -21,40 +21,41 @@
 1. It is useful to weight the samples in wax paper and then to crush the tissues in the wax paper prior to place them in a clean eppendorf.
 2. Pour small amount of liquid nitrogen into tube.
 3. Grind the sample till you have a fine powder.
-4. Add 300 mlof the **CTAB + Mercaptoethanol** + **EDTA+PVP(1%)** buffer to the powder and homogenise the grind tissue in the solution; then add another 300 ml and homogenise well.
-5. Add 2 ml of RNAse A (10mg/ml) per extraction tube. 
+4. Add 300 µl of the **CTAB + Mercaptoethanol** + **EDTA+PVP(1%)** buffer to the powder and homogenise the grind tissue in the solution; then add another 300 µl and homogenise well.
+5. Add 2 µl of RNAse A (10mg/ml) per extraction tube. 
  
-   > **Note**: We noticed that it is possible to add RNAse to the CTAB solution and it gives good results. It has the advantage of skipping the RNAse step after the extraction and of not going over another precipitation step. 2 ml of RNAse (10mg/ml) has been shown to work well.
-6. Set tubes in **65 C** water bath for **30min**, mixing 2 or 3 times during the incubation.
+   > **Note**: We noticed that it is possible to add RNAse to the CTAB solution and it gives good results. It has the advantage of skipping the RNAse step after the extraction and of not going over another precipitation step. 2 µl of RNAse (10mg/ml) has been shown to work well.
+6. Set tubes in **65 C** water bath for **30 min**, mixing 2 or 3 times during the incubation.
 7. Add **1 volume** (600ul) of chloroform-Isoamyl alcohol (24:1)and invert **gently** for 10 min. to ensure mixing.
 8. **Centrifuge for 15min**. @ maximum speed in a microcentrifuge.
 9. Transfer the supernatant (**uppermost layer**) to the 2nd set of pre-labeled tubes. Collect as much as you can, but avoid transferring the debris located at the interface.
-10. Add **1 volume** (600ul) of chloroform-Isoamyl alcohol (24:1) again, and invert for c. 5min to ensure proper mixing.
+10. Add **1 volume** (600 µl) of chloroform-Isoamyl alcohol (24:1) again, and invert for c. 5min to ensure proper mixing.
 11. Spin tubes for 15 min at max. speed, remove top layer as before, and transfer to the third set of newly marked tubes.
-12. Add **1 ml** (i.e. about 2 volumes)of ice cold **100% ETOH** to precipitate the DNA. Invert the tubes to mix well. At this point you may or may not be able to see DNA.
+12. Add **1 ml** (i.e. about 2 volumes) of ice cold **100% ETOH** to precipitate the DNA. Invert the tubes to mix well. At this point you may or may not be able to see DNA.
 
     >**Note**: it is also possible to precipitate the DNA with 1.5 volumes of isopropanol. Depending of the plant we are extracting, one method could work better than the other. Ethanol precipitation has been found to work better for Carex and roses, for example.
 
-13. Let the tubes sit @ Room temperature for 30 minutes to 2 hours.
+13. Let the tubes **sit @ Room temperature for 30 minutes to 2 hours**.
 
     >**Note**: If you can see huge pellets at this point do not bother to let the tubes sit for 2-3 hours; 15-30 minutes could be enough. You obviously have enough DNA; if you let it sit any longer you will get more DNA, but it will also get more inhibitory secondary products.
 
 14. Centrifuge @ maximum for 20 min.
 15. Pour-off ETOH. Should be able to see pellet at this point.
-16. Wash with 1ml of Wash Buffer (room temperature). Dislodge pellets from side of tubes, then let them sit for at least an hour on a shaker at low speed.
-17. Centrifuge at maximum for 10 min.
+16. Wash with **1 ml of Wash Buffer** (room temperature). Dislodge pellets from side of tubes, then let them sit for at least an hour on a shaker at **low** speed.
+17. Centrifuge at **maximum speed** for 10 min.
 18. Pour off Wash Buffer, and use tissue to remove as much remaining buffer as possible by tapping tube against paper, and by sopping up any small beads in tube.
 19. Place the open tubes under the hood and let sit for about 1 hour, until you cannot smell alcohol. It is also possible to dry-vacuum them for 4-6 minutes if less time is available.
-20. Re-suspend in 150 µl TE (100-200) or distilled water. Pipette TE overtop of pellet and tap tubes with finger to help dissolve DNA.
-21. Replace tubes in a 65 C bath for 10min to redissolve the DNA, tapping tubes occasionally.
+20. **Re-suspend in 150 µl TE** (100-200) or distilled water. Pipette TE overtop of pellet and tap tubes with finger to help dissolve DNA.
+21. **Place tubes in a 65 C bath for 10 min** to redissolve the DNA, tapping tubes occasionally.
 
-    >**Note**: If you did not put the RNAse at step 5, you may remove the RNA by performing the following steps.
 
-22. Add 2 µl of RNAse A (10mg/ml) and place in the water bath for 30 min @ 37 C.
-23. Add 20 µl chloroform-Isoamyl alcohol (24:1) and invert the tubes gently to mix.
-24. Spin tubes for 5 min at max.
-25. Remove the top layer and transfer to new tubes. You are now ready to PCR.
-26. Optional: Divide sample into aliquots. One in -20C, the other in -80 for long-term storage.
+## RNAse treatment
+>**Note**: If you did not put the RNAse at step 5, you may remove the RNA by performing the following steps.
+1. Add 2 µl of RNAse A (10mg/ml) and place in the water bath for 30 min @ 37 C.
+2. Add 20 µl chloroform-Isoamyl alcohol (24:1) and invert the tubes gently to mix.
+3. Spin tubes for 5 min at max.
+4. Remove the top layer and transfer to new tubes. You are now ready to PCR.
+> **Optional**: Divide sample into aliquots. One in -20C, the other in -80 for long-term storage.
 
 > **Note**: if you will be doing lots of PCR within the week (three to five days is fine) it is best to keep the DNA in the fridge at 4 C. The constant cycle of freezing and thawing shears the DNA, and will eventually make it useless.
 
@@ -88,3 +89,6 @@ Fill up to 500 ml with H2O, adjust to pH 8.0
 ### RNAse A, 10mg/ml
 
 ### 0.5M EDTA, ph 8.0
+
+---
+*Last edited in 2009*
