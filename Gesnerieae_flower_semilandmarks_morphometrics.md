@@ -79,7 +79,7 @@ Tout au long de l'opération de numérisation, se rappeler de faire des sauvegar
 
 ### Analyses dans R
  1. Ouvrir R.
- 1. Sourcer la fonction '''read.nts''' (voir Annexe 2).
+ 1. Sourcer la fonction ```read.nts``` (voir Annexe 2).
  1. Télécharger le paquet shapes.
  1. Pour des exemples d'analyses, se référer à l'Annexe 3 (exemple d'analyses).
 
