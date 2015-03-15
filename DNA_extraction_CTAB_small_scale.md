@@ -50,7 +50,9 @@
 
 
 ## RNAse treatment
+
 >**Note**: If you did not put the RNAse at step 5, you may remove the RNA by performing the following steps.
+
 1. Add 2 µl of RNAse A (10mg/ml) and place in the water bath for 30 min @ 37 C.
 2. Add 20 µl chloroform-Isoamyl alcohol (24:1) and invert the tubes gently to mix.
 3. Spin tubes for 5 min at max.
