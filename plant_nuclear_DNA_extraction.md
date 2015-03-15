@@ -12,6 +12,7 @@
 The Weigel protocol uses 10 ml per 0.5 g. I don’t know how this affects the yield.
 2. Mix thoroughly up and down for about 5 minutes (keep cold). You can use the vortex at a low speed.
 3. Filter the solution through two layers of 20 µm Miracloth (CalBiochem) into an ice-cold 50 ml polyethylene centrifuge tube. You can squeeze the layers at the end.  
+
    >At this point, you can use 10 ul of the filtered nuclei mixed with methylene blue to quantify and confirm the nuclei presence and number using a light microscope (X 100).
 4. Add 1.5 ml of Lysis Buffer to the filtered suspension and mix gently for 2 minutes on ice.  
    >This is for 7.5 ml of Nuclei extraction buffer. If you recovered much less solution after the filtration, adjust the amount accordingly to keep the same ratio.
