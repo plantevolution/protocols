@@ -13,7 +13,7 @@
 ## Amount of Material
  * **Fresh Material**: Use about 100 mg of fresh material.
  * **Silica Dried**: Use between 20 mg and 30 mg of silica dried material.
- * **Herbarium Material**: (Julian’s suggestion) Use quite a lot. Taking ''Carex superata'' as an example, I would use at least two 6cm leaves and maybe a bit more. The best guide is that you should add as much material as possible, without the buffer becoming so full of tissue that you cannot suck it up the pipette. When there is too much it is more like a mulch than a fluid. Usually when this happens I add more CTAB from an extra tube.
+ * **Herbarium Material**: (Julian’s suggestion) Use quite a lot. Taking *Carex superata* as an example, I would use at least two 6cm leaves and maybe a bit more. The best guide is that you should add as much material as possible, without the buffer becoming so full of tissue that you cannot suck it up the pipette. When there is too much it is more like a mulch than a fluid. Usually when this happens I add more CTAB from an extra tube.
 
 ## Extraction
  1. It is useful to weight the samples in wax paper and then to crush the tissues in the wax paper prior to place them in a clean eppendorf.
@@ -28,7 +28,10 @@
  1. Transfer the supernatant (**uppermost layer**) to the 2nd set of pre-labeled tubes. Collect as much as you can, but avoid transferring the debris located at the interface.
  1. Add **1 volume** (600ul) of chloroform-Isoamyl alcohol (24:1) again, and invert for c. 5min to ensure proper mixing.
  1. Spin tubes for 15 min at max. speed, remove top layer as before, and transfer to the third set of newly marked tubes.
- 1. Add **1 ml** (i.e. about 2 volumes)of ice cold **100% ETOH** to precipitate the DNA. Invert the tubes to mix well. At this point you may or may not be able to see DNA. <<BR>>**Note**: it is also possible to precipitate the DNA with 1.5 volumes of isopropanol. Depending of the plant we are extracting, one method could work better than the other. Ethanol precipitation has been found to work better for Carex and roses, for example.
+ 1. Add **1 ml** (i.e. about 2 volumes)of ice cold **100% ETOH** to precipitate the DNA. Invert the tubes to mix well. At this point you may or may not be able to see DNA.
+
+> **Note**: it is also possible to precipitate the DNA with 1.5 volumes of isopropanol. Depending of the plant we are extracting, one method could work better than the other. Ethanol precipitation has been found to work better for Carex and roses, for example.
+
  1. Let the tubes sit @ Room temperature for 30 minutes to 2 hours.<<BR>>**Note**: If you can see huge pellets at this point do not bother to let the tubes sit for 2-3 hours; 15-30 minutes could be enough. You obviously have enough DNA; if you let it sit any longer you will get more DNA, but it will also get more inhibitory secondary products.
  1. Centrifuge @ maximum for 20 min.
  1. Pour-off ETOH. Should be able to see pellet at this point.
