@@ -1,5 +1,5 @@
 # Plant Nuclear DNA extraction protocol
-*Simon Joly, 2009*
+*Simon Joly, 2009*  
 *This protocol is a modification of the Weigel lab protocol*
 
 ### Notes
