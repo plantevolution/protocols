@@ -1,5 +1,5 @@
 # Small-scale CTAB DNA Extraction Protocol
-*(Julian Starr and Simon Joly; September 2002)*
+*Julian Starr and Simon Joly; September 2002*
 
 ## General Preparation
 * To clean pestels (eppendorf-size pestel), wash well, rinse with 100% ETOH and with distilled water. Then autoclave them to avoid contamination.
@@ -56,7 +56,7 @@
 25. Remove the top layer and transfer to new tubes. You are now ready to PCR.
 26. Optional: Divide sample into aliquots. One in -20C, the other in -80 for long-term storage.
 
-> **Note**: if you will be doing lots of PCR within the week (three to five days is fine) it is best to keep the DNA in the fridge at 4 C. The constant cycle of freezing and thawing shears the DNA, and will eventually make it useless.''''' '''
+> **Note**: if you will be doing lots of PCR within the week (three to five days is fine) it is best to keep the DNA in the fridge at 4 C. The constant cycle of freezing and thawing shears the DNA, and will eventually make it useless.
 
 ## Solutions
 
