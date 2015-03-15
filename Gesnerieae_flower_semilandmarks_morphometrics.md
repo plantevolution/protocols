@@ -88,7 +88,7 @@ Tout au long de l'opération de numérisation, se rappeler de faire des sauvegar
 
 Script pour le Bash d'Ubuntu: Pour créer deux copies de chaque photo en changeant le nom, très utile lorsqu'un grand nombre de photographies doivent être préparées.
 
-'''sh
+```sh
 #!/bin/bash
 
 # Aller à l'emplacement des photos dans la
@@ -105,14 +105,14 @@ do
   cp $i ./doubles/$(echo $i | cut -d'.' -f 1)-n$n.jpg
  done
 done
-'''
+```
 
 ## ANNEXE 2 : read.nts.R
 [[attachment:read.nts.R]]
 
 Script pour R: Sert à importer les données d'un fichier NTS dans un objet data.frame de R prêt pour les analyses.
 
-'''python
+```python
 ### Fonction pour lire les fichiers NTS dans R
 #
 # file: Donner le nom et le chemin du fichier à lire comme
@@ -164,7 +164,7 @@ read.nts <- function(file) {
    tps.data <- list(spname=rownam,landmarks=data.arr)
    return(tps.data)
 }
-'''
+```
 
 ## ANNEXE 3 : Exemple d'Analyses morphométriques dans R
 Script pour R. Cet exemple d'analyses morphométriques dans R utilise un jeu de données inclus dans le paquet shapes, le jeu de données gorf.dat, qui correspond à des crânes de gorilles femelles.  Aller chercher le script en format texte dans le fichier [[attachment:ExempleAnalysesMorpho.R]].
