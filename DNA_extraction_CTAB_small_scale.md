@@ -16,8 +16,9 @@
  * **Herbarium Material**: (Julian’s suggestion) Use quite a lot. Taking *Carex superata* as an example, I would use at least two 6cm leaves and maybe a bit more. The best guide is that you should add as much material as possible, without the buffer becoming so full of tissue that you cannot suck it up the pipette. When there is too much it is more like a mulch than a fluid. Usually when this happens I add more CTAB from an extra tube.
 
 ## Extraction
- 1. It is useful to weight the samples in wax paper and then to crush the tissues in the wax paper prior to place them in a clean eppendorf.
- 1. Pour small amount of liquid nitrogen into tube.
+
+1. It is useful to weight the samples in wax paper and then to crush the tissues in the wax paper prior to place them in a clean eppendorf.
+2. Pour small amount of liquid nitrogen into tube.
  1. Grind the sample till you have a fine powder.
  1. Add 300 mlof the **CTAB + Mercaptoethanol** + **EDTA+PVP(1%)** buffer to the powder and homogenise the grind tissue in the solution; then add another 300 ml and homogenise well.
  1. Add 2 ml of RNAse A (10mg/ml) per extraction tube. 
