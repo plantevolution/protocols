@@ -13,12 +13,14 @@ The Weigel protocol uses 10 ml per 0.5 g. I don’t know how this affects the yi
 2. Mix thoroughly up and down for about 5 minutes (keep cold). You can use the vortex at a low speed.
 3. Filter the solution through two layers of 20 µm Miracloth (CalBiochem) into an ice-cold 50 ml polyethylene centrifuge tube. You can squeeze the layers at the end.  
 
-   >At this point, you can use 10 ul of the filtered nuclei mixed with methylene blue to quantify and confirm the nuclei presence and number using a light microscope (X 100).
+   >**Note**: At this point, you can use 10 ul of the filtered nuclei mixed with methylene blue to quantify and confirm the nuclei presence and number using a light microscope (X 100).
 4. Add 1.5 ml of Lysis Buffer to the filtered suspension and mix gently for 2 minutes on ice.  
-   *This is for 7.5 ml of Nuclei extraction buffer. If you recovered much less solution after the filtration, adjust the amount accordingly to keep the same ratio.*
+
+   >**Note**:This is for 7.5 ml of Nuclei extraction buffer. If you recovered much less solution after the filtration, adjust the amount accordingly to keep the same ratio.*
 5. Centrifuge at 2000g at 4 ◦C for 10 minutes to pellet the nuclei. Discard the supernatant by pouring off. Be careful not to discard the nuclei.
 6. Add 2 ml of CTAB extraction buffer (+ 10 µl of β-mercaptoethanol) to the nuclei pellet and mix well by swirling gently to re-suspend the pellet. The bottom-most part of the pellet is sometimes hard to re-suspend and you can use a pipet to detach it from the side of the tube. It seems that this hard part doesn’t need to be perfectly dissolved.  
-   *The Weigel protocol uses less CTAB. I think more CTAB is important to obtain a good yield. You might event want to add up to 4 ml of CTAB per gram of leaves for an optimal yield. Also, the Weigel protocol uses a 1X CTAB buffer; I am not sure how this influences the yield.*
+
+   >**Note**:The Weigel protocol uses less CTAB. I think more CTAB is important to obtain a good yield. You might event want to add up to 4 ml of CTAB per gram of leaves for an optimal yield. Also, the Weigel protocol uses a 1X CTAB buffer; I am not sure how this influences the yield.*
 7. Add 5 µl of RNase A (10 mg/ml) to the CTAB solution and incubate for 30 minutes at 60 ◦C.
 8. Split the CTAB solution equally into three 1.5 ml polypropylene (eppendorf) tubes (~ 700 µl in each).
 9. Add an equal volume (700 µl) of Chloroform/IsoAmylAlcohol (24:1). Mix by inverting for 10 minutes and centrifuge at max speed for 10 minutes (@ room temperature).
