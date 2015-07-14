@@ -1,9 +1,7 @@
 SSCP protocol
 =============
 
-*Simon Joly, 2009-2012*
-
-*Last edited by Judita Zozomova Lihova and Simon Joly, June 2012*
+*Joly Lab, 2009-2015*
 
 Gel Preparation
 ---------------
@@ -51,7 +49,7 @@ Stain the gels in TBE (0.5x) solution supplemented by SYBR Gold (10 μl) for 5-1
 
 ## Asymetric PCR
 
-It is very useful to do asymetric PCR so that only one DNA strand is visible on the gel instead of two. See the following reference for more details.
+It is very useful to do asymetric PCR (Rodríguez et al. 2011) so that only one DNA strand is visible on the gel instead of two. The idea is to first do a standard PCR and check the amplification on gel. Then another PCR, identical to the first except for the addition of a single primer, is done using 1 µL of the first PCR as template. 5 µL of this asymetric PCR can be run on a gel to confirm proper amplification.
 
 ## References
 

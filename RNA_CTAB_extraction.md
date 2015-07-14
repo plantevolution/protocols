@@ -29,7 +29,7 @@
 1. Add 750 µL CTAB + b-mercaptoethanol to ca. 100 mg ground tissue in 2 mL Eppendorf tubes.  Immediately vortex or shake well to mix.  (If tissue has already been ground, then you might choose to add tissue to buffer. Store tissue tubes in liquid N with a 2 inch cardboard box before adding extraction buffer).
 2. Incubate tubes in water bath at 65 °C for 10 minutes, vortexing periodically.
 3. Add an equal amount (750 µL) chloroform : isoamyl alcohol (24:1) to each tube, vortexing each tube vigorously.  
-4. Centrifuge at 11,000g (ca. 14000 rpm) for 10 min at 4 °C.
+4. Centrifuge at 21,000g (ca. 14000 rpm) for 10 min at 4 °C.
 5. Remove the aqueous phase and transfer to a new tube.  Take care to remove as much of this aqueous phase as possible in order to have better yields, but avoid the interphase.
 6. Repeat steps 3-5 a second time.  The aqueous phase should be transferred to the tubes with the full labels.
 7. Determine the volume of the aqueous phase recovered after the second partitioning with chloroform : isoamyl alcohol (generally determined by drawing up this volume with a pipettor until the full volume is accurately drawn up).  Add an equal volume of LiCl-EDTA (7.5 M LiCl, 50mM EDTA).  Mix gently by inverting the tubes several times and place the tubes at -20 °C freezer for 30 minutes to one hour.  Be consistent with your time of incubation!
