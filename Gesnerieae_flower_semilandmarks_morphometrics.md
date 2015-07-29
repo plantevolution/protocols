@@ -1,4 +1,4 @@
-# Protocole pour photographie des fleurs de Gesneria s.l.
+# Protocole pour numériser les fleurs de Gesneria
 *Étienne Léveillé-Bourret, 13 août 2012*
 
 ## Préparation du matériel
