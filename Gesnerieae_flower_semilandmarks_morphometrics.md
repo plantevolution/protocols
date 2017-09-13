@@ -54,7 +54,7 @@ Tout au long de l'opération de numérisation, se rappeler de faire des sauvegar
  1. Plusieurs configurations de semi/landmarks sont possibles, j'en propose une simple:
  1. Avec le crayon jaune, cliquer sur la bordure de la silhouette de la corolle au niveau de l'insertion des lobes supérieurs. Cliquer ensuite à intervalle régulier pour suivre la silhouette, jusqu'à arriver au niveau de l'insertion de la corolle sur le calice (correspond à l'insertion des sépales supérieurs si le calice n'a pas été retiré de la fleur avant la photo).
  1. Faire un clique droit sur la courbe.
- 1. Sélectionner Resample curve, puis écrire 15 dans Number of points.
+ 1. Sélectionner Resample curve, puis écrire 15 dans Number of points. Note: le nombre de point optimal va dépendre le la longueur de la courbe. Il est important que les points soient assez rapprochés afin de pouvoir bien définir la courbe. En résumé, il est généralement mieux d'avoir plus de points que moins de points.
  1. Sélectionner By length, puis OK.
  1. Répéter les étapes 10 à 13 pour la partie inférieure de la silhouette de la corolle.
  1. Faire une sauvegarde (Save data as...), puis passer à la prochaine photo avec l'outil flèche rouge vers la droite (->).
